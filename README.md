@@ -3,6 +3,7 @@
 Aspiring software developer based in Spain.
 
 🌱 Currently learning Java
+
 🤝🏻 Looking to collaborate on any project i can learn from
 
 ## 📦 Toolbox
