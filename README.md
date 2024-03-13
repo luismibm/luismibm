@@ -7,11 +7,11 @@ Aspiring software developer based in Spain.
 
 ## 📦 Toolbox
 
-**Frontend:** `HTML` `CSS`
+**Frontend ➡️** `HTML` `CSS`
 
-**Backend:** `Java`
+**Backend ➡️** `Java`
 
-**Other:** `Git` `Docker`
+**Other ➡️** `Git` `Docker`
 
 ## 📫 How to reach me
 
