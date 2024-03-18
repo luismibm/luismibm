@@ -6,4 +6,4 @@ Aspiring software developer based in Spain.
 
 ## 📨 Contact
 
-Send me a Mail or conect with me on [LinkedIn](https://www.linkedin.com/in/luismibm/) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/luismibm/)
