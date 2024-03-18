@@ -1,4 +1,4 @@
-## 👀 About Me
+## 👤 About Me
 
 Aspiring software developer based in Spain.
 
