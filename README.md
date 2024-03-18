@@ -1,4 +1,4 @@
-### Hey, I'm Luismi 👋
+## Hey, I'm Luismi 👋
 
 Aspiring software developer based in Spain.
 
