@@ -4,16 +4,6 @@ Aspiring software developer based in Spain.
 
 🌱 Currently learning Java
 
-🤝🏻 Looking to collaborate on any project i can learn from
+## 📨 Contact
 
-## 📦 Toolbox
-
-**Frontend ➡️** `HTML` `CSS`
-
-**Backend ➡️** `Java`
-
-**Other ➡️** `Git` `Docker`
-
-## 📫 How to reach me
-
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/luismibm/)
+Send me a Mail or conect with me on [LinkedIn](https://www.linkedin.com/in/luismibm/) 
