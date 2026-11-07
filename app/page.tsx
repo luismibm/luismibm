@@ -7,7 +7,7 @@ export default function Page() {
 		<p></p>
 		<br />
 		<p>root@overcaffeinated ~ % contact</p>
-		<p>&nbsp; <a href="mailto:luismiguel@overcaffeinated.dev" class="underline">luismiguel@overcaffeinated.dev</a></p>
+		<p>&nbsp; <a href="mailto:luismiguel@overcaffeinated.dev" className="underline">luismiguel@overcaffeinated.dev</a></p>
 		</>
 	)
 }
